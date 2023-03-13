@@ -11,5 +11,5 @@ OLS regression and significance test. Student, Chow, Fisher test. Time series an
 - :ledger: ProjectEconometricsPart1.ipynb <i>(Project Part 1)</i>
 - :ledger: ProjectEconometricsPart2.ipynb <i>(Project Part 1)</i>
 
-### 2. How to use this project? 
+### 2. How to use this project? :bulb:
 This project can be used as teaching material for an introduction to econometrics using Python. The first part focuses on OLS egression and significance tests, including Student, Chow and Fisher tests. The second part focuses on time series analysis and in particular on the link between inflation and unemployment.
