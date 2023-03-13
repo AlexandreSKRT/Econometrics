@@ -7,7 +7,7 @@ OLS regression and significance test. Student, Chow, Fisher test. Time series an
 - :file_folder: <b>Data</b> <i>(Data Folder)</i> 
   - :floppy_disk: MROZ.txt <i>(Economical and Social Data, text format)</i>
   - :floppy_disk: MROZ.csv <i>(Economical and Social Data, csv format)</i>
-  - :floppy_disk: quaterly.csv< <i>(Times Series - Unemployment and inflation)</i>
+  - :floppy_disk: quaterly.csv <i>(Times Series - Unemployment and inflation)</i>
 - :ledger: ProjectEconometricsPart1.ipynb <i>(Project Part 1)</i>
 - :ledger: ProjectEconometricsPart2.ipynb <i>(Project Part 1)</i>
 
