@@ -3,7 +3,7 @@ OLS regression and significance test. Student, Chow, Fisher test. Time series an
 
 <i>Languages used : Python :snake:</i>
 
-### 1. Architecture of the project 
+### 1. Architecture of the project 🏡
 - :file_folder: <b>Data</b> <i>(Data Folder)</i> 
   - :floppy_disk: MROZ.txt <i>(Economical and Social Data, text format)</i>
   - :floppy_disk: MROZ.csv <i>(Economical and Social Data, csv format)</i>
